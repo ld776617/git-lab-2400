@@ -8,3 +8,5 @@ Andre Kalinichenko - @Mo-ja-ve
 Answers located in answers.md file
 
 CS 2400 107 
+
+DONE
